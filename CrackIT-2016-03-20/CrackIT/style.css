@@ -1,0 +1,45 @@
+
+
+.box{
+    margin-left: 20%;
+    margin-top: 05%;
+    width: 60%;
+    border:3px solid #8AC007;
+    padding: 10px;
+    position: absolute;
+    background-color:antiquewhite;
+    height:60%;
+     
+}
+.phrase {
+     position:relative;
+    margin-left: 15%;
+    height: 40px;
+     margin-top: 10%;
+    width: 70%;
+    
+}
+
+.crack,.hash {
+  
+    display:block;
+    margin-top: 3%;   
+    margin-left: 35%;
+    background-color:chartreuse;
+    color:whitesmoke;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    
+}
+.hash{
+    background-color:cornflowerblue;
+    color:whitesmoke;
+      margin-left: 50%;
+    margin-top: -10%; 
+}
+.result{
+    color: green;
+    margin-left: 20%;
+}
+
